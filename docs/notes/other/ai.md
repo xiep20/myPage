@@ -18,6 +18,7 @@
   收录国内外主流AI工具，涵盖文本、图像、音频等多领域。
 - [CLONE UI 组件 | 使用简单的文本提示生成 UI 组件](https://clone-ui.design)
   通过文本描述快速生成UI组件，适合前端开发与设计师使用。
+- [Cursor](https://www.cursor.so)
+  AI驱动的编程助手与IDE插件，提升开发效率。
   
-  cursor
   

@@ -6,7 +6,8 @@ export default {
       nav: [
         { text: '首页', link: '/' },
         { text: '学习笔记', link: '/notes/' },
-        { text: '个人项目', link: '/projects/' }
+        { text: '个人项目', link: '/projects/' },
+        { text: '关于我', link: '/about' }
       ],
       socialLinks: [
         { icon: 'github', link: 'https://github.com/xiep20' }
